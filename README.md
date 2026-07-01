@@ -232,6 +232,3 @@ MultiDiseaseRiskForecast_v2_artefacts.zip    # all artefacts, packaged for downl
 - [ ] Model versioning / experiment tracking
 
  
-## License
- 
-This project is intended for educational and portfolio purposes.
